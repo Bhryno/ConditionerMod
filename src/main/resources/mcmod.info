@@ -1,0 +1,16 @@
+[
+{
+  "modid": "conditioner-mod",
+  "name": "ConditionerMod",
+  "description": "A Minecraft 1.8.9 Hypixel-oriented PvP all-in-one mod.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Conditioner"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
